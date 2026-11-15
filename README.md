@@ -383,7 +383,7 @@ pip install fastapi uvicorn tensorflow opencv-python numpy python-multipart
 | Membre | Rôle |
 |---|---|
 | **Nalokoyo Tassaou Mahamadou Massour** | Développeur Flutter & Intégration IA |
-| **Abdoul Aziz Dangande** | Développeur Backend & Modèles IA |
+| **Abdoul Aziz Seydou Dangande** | Développeur Backend & Modèles IA |
 
 ---
 
